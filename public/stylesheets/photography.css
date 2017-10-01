@@ -1,0 +1,28 @@
+body { 
+  background: url("https://lh3.googleusercontent.com/FOjc73wEYiQe8wo6m25Wd4-28wdOqqk0dX_e75krgDnUpTC2yrvcVvb6lMa9XePImUpZ6-1skqlg-ZQ6kd3ctbA0cbNf9eS0NrEsyJr8GRrYpvxJIOjfD97Wzjso6KKDH_vntg_-GS7C48KNSUY6U9HNSDdusfbBTjYlGq0pwTpIBV094U6Pm4AJdrAHShNie7eT74kvK31Hq1Xvr9uQdTvqg7Uk7Uds1Ceog2eLuvIUFCVmQBWcUkJSuFSc8PM-LHp0SMfe5_YXL_LF6PuQusIzqUqCfHColEV13ahzd-ZbR9QpD3c0PHTRGrKwLTdDC5L8QO3aK7pu4P1WvwQ-zviI6p5L8dB_t2OdLdEGwVNFxzh99ZPSIT_z8JyrZh6a_b_xc1tnLTSIyD-VQb_d40prwQbF2lRApq3DI9HmM0z9iy4NvEgy1tul7yxKeKW5IZyawmTYb3HSYfm9RUIlST7LIZvBfgxj4wOSdhHhFQXHsrTUP6gOi5h_x4sftYG-RCw0oMsqppmMlC6smWu5x7H-O3YVo2iL4psTkC6kh-cYoCB_gIq58m3FbzF08Q_i-JryLpUPW1ChzmTTTsXTyrKDBqhrQreLp2kNR3nqtwI=w1718-h966-no") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.title {
+    text-align: center;
+    padding-top: 7em;
+    padding-bottom: 1em;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.placeholder {
+    color: white;
+    text-align: center;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    background-color: rgba(0, 0, 0, 0.4);
+}

@@ -1,0 +1,40 @@
+body { 
+  background: url("https://lh3.googleusercontent.com/g7dDI73fSPUSNi3WdsOZqPP5ZgTgRKId5hOIsHT3yJHsRCdHbnN-H8lbEM0W2wqMUgQifdg0CZue75dHbA1t9T8S__uZ-7k1Xw4TGciaEiAbTabyNtwQZUa2DTiUVOZp4PYqix7uXdKdxnN-f4ka7U3qwisndzpuLRCulTwYbzc-47EZ8S_EkRXSRxaowwodMTn-tOk1GQSt_kVsxaMazLSCCsEL2TRi9lzID8Y8jUCMHc-5d50f5w_RWB8qI0UHp8-ZZ8pwkCGrqa5vhjgb8L3_MrZjV8yZrsGimKeODulSWKR5do0hWW_7Td4Ov4Kc_IwJXqHxpQ0Ac7AqH_Xf1NenXPXRp-5NntfqQDbgxg2pVn7JC13sLFE_UZ4kCRtLK_LaAU4aGA73MzYaujfebMgNOTCH_cfCN1xgAWwT5ui0To8UypdygAMDMvbQyXmv8lEFAbDGmosF-7G_HSVsZBmXUofbKcI8YBQMHoELveUgD0osexGUJSGbGUmlXZ_ITWDVhJv_lFzqHCNL7nEImWONjYr_IkWEgC0XYn84tVlEFMMgqYMCP_6wtrqxDK4qI8LQsjB2Ug1qMicX8Q2hFbc9FxqQ6IURRxRnvYfU1iA=w1449-h966-no") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+
+.col-xs-4 {
+    width: 50%;
+    text-align: center;
+    font-size: x-large;
+}
+
+.title {
+    text-align: center;
+    padding-top: 7em;
+    padding-bottom: 4em;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.map {
+    text-align: center;
+    padding-top: 2em;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.placeholder {
+    color: white;
+    text-align: center;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    background-color: rgba(0, 0, 0, 0.4);
+}

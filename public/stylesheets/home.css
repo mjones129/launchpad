@@ -1,0 +1,19 @@
+body { 
+  background: url("https://lh3.googleusercontent.com/QQqNi7_AQgr8gGaD7ArKYu4Z-iGeR72ixlINoQaQkMYdQriV1DIusrqz0J6MB7cokavM2TjSrYXXVe2oqOd_c0neu_g-a_ga0eZ34G_gDtWIPxAhaF4ugxPqFIhuDZPUSUFu0D_kzshJyBBLhyQQDQmgusN60vzNsBZ4KETprVixLWbd_HHO4-qRBrkl6Kp_qX5I86c_bLPeDHXij2d_LOzZYeD04n012zusueGXtNQnHfgDx11yEBxHC5HNMILn2TsPFJ3joYLu_vjcjOSEGOrQDQihEhnUHTeqI0EsTbRZEiTnB0IVBsoR98ZF3NxLBmAQxhdvrbRTJh7ZLiWt62zq_1qScVluumOjTXVxD5yPwYmI6g0urXEiG6reCjvnzOO8KWC7pOykwPrzSJpyHDRILymo47WQg5SRcbcLOerocetWyj0MVexkMQoNlYy6CQZkBT1e_JdIlInRc6WVV7bIWnXehWf39yFOIzrtYiF8fqco6EO9tOmrOTYyZDeXsXGt2c-WlNbzjGVFNxUik4hwwQlrOHi64Clcm_IhzkeQi9ncbbCbZ5lpUrmoGUEdfPPL76hIlIz__Q1w2ZmfSUJJTHkCzKuSHw1xzaHTbmQ=w1717-h966-no") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    margin-top: 350px;
+    text-align: right;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    vertical-align: middle;
+    padding-top: 350px;
+    padding-right: 100px;
+}

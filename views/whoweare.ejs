@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Who We Are.</title>
+    <% include partials/head %>
+    <link rel="stylesheet" href="stylesheets/whoweare.css">
+</head>
+<body>
+    <% include partials/navigation %>
+    <div class="container"> 
+      <h1>Mission Control:</h1>
+      <div class="row" style="display:flex; flex-wrap: wrap;">
+        <% staff.forEach(function(staff){ %>
+            <div class="col-md-4 col-sm-6">
+                <div class="thumbnail">
+                   <img src="<%= staff.image %>">
+                   <div class="caption">
+                       <h4><%= staff.name %></h4>
+                       <p><%= staff.bio %></p>
+                   </div>
+                </div>
+            </div>
+        <% }); %>
+    </div>
+</div>
+     
+
+<% include partials/foot %>    
+</body>
+</html>
