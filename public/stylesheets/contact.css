@@ -6,6 +6,7 @@ body {
   background-size: cover;
   font-family: 'Open Sans', sans-serif;
   color: white;
+  font-size: 16px;
 }
 
 .col-xs-4 {
