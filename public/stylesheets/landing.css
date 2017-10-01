@@ -1,11 +1,16 @@
 
-body { 
+html { 
   background: url("https://lh3.googleusercontent.com/umfCVhGviFxsj0_y-e40RtFahXhepdqWkoZ-0LafnzEd5fWtGxaoNwJjKTI4Atl226Nr9CroqqmZGo55r69xE38VedEHQ9iF6h8E-G10BNJhlVEVYCfEjeE2tu-_ZmbOJHOnJuL-5MLVCQlex5fo4wJHaDHAOsyNZM3U6xzyDJekal0JM3Ttj1GAUVR-4KgIJftSkxo7F_8VJEDnGoZUg_3KvSFKYrpOkSiHLiibxIw20N7MtgarMsaP6nfysfiMHaiQQh7ghnq4wLQM1L7W-jTUidMwvOp-h0sgMgUo3coxTgFNAVEqR8Txr_I0TUrRUzdpID-j2kqc1r-eegJGsU_zkcqRBP-lNB5jme7GpVidkdNL5Fi4SJpeH4LtHlGFUCj8RLd8mXlWl6Xmg2QWCLE8hDzzazuVtMCqiQF0oB6bctqO-yv6XbfZncbYV4W9Q8pT7x2xfR95zjZEnx-FzmbPkpt6TlMb4gNZG4dOgJPVzZ2PZi1gy-7XuqW_k3sHKlVXR12uFR7V2Nl_aWBp0BmhfjdmXzDoWcacd3Fczc0OwcFSOgGjAx0qQrzTQiG1yBSLJJ-Njq6kkBzvxgg8iItQFWFeZ3q3yOw2F6LkXJw=w1718-h966-no") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  overflow: hidden;
   font-size: 16px;
+}
+
+body {
+  background-color: transparent;
 }
 
 .container {
